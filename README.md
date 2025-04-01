@@ -79,13 +79,10 @@ yolov7-w6pose-replicate/
 
 1. Activate the environment:
 
-   - If using Anaconda:
+   - Anaconda:
      ```
      conda activate cv_env
      ```
-   - If using venv:
-     - Windows: `venv\Scripts\activate`
-     - macOS/Linux: `source venv/bin/activate`
 
 2. Place the videos that you want to train in the datasets folder. Recommended for data splitting are 60% training set, 20% validation set, and 20% test set.
 
