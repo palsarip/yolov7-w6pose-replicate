@@ -70,6 +70,7 @@ yolov7-w6pose-replicate/
 │   ├───train
 │   └───valid
 ├── models/                # Model weights
+├── paper/                 # Paper reference
 ├── utils/                 # yolov7 wongkinyiu functionalities
 └── README.md              # This file
 ```
