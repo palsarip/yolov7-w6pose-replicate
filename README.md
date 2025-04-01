@@ -26,7 +26,7 @@ This project requires Python 3.12 and Anaconda or Miniconda to manage dependenci
 
 ### Installation
 
-#### Option 1: Using Anaconda (Recommended)
+#### Using Anaconda
 
 1. Clone the repository:
 
@@ -50,62 +50,26 @@ This project requires Python 3.12 and Anaconda or Miniconda to manage dependenci
    pip install ultralytics
    ```
 
-#### Option 2: Using Python venv (Without Anaconda)
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/yourusername/fallsafei-server-app.git
-   cd fallsafei-server-app
-   ```
-
-2. Create a virtual environment:
-
-   ```
-   python -m venv venv
-   ```
-
-3. Activate the virtual environment:
-
-   - On Windows:
-     ```
-     venv\Scripts\activate
-     ```
-   - On macOS/Linux:
-     ```
-     source venv/bin/activate
-     ```
-
-4. Install required packages:
-
-   ```
-   # Computer vision dependencies
-   pip install opencv-python
-   pip install torch torchvision
-   pip install matplotlib
-   pip install ultralytics
-   pip install scikit-image
-
-   # API and backend dependencies
-   pip install fastapi>=0.68.0
-   pip install uvicorn>=0.15.0
-   pip install sqlalchemy
-   pip install alembic
-   pip install pydantic
-   pip install python-dotenv
-   pip install psycopg2-binary
-   pip install pydantic-settings
-   ```
-
-Note: Some packages might have complex dependencies and could be more difficult to install with pip alone compared to Anaconda, especially on Windows systems.
-
 ## Project Structure
 
 ```
 yolov7-w6pose-replicate/
-├── datasets/              # Dataset storage
+├───datasets                # Dataset storage
+│   └───FallDataset
+│       ├───test
+│       │   ├───labels
+│       │   └───video
+│       ├───train
+│       │   ├───labels
+│       │   └───video
+│       └───valid
+│           ├───labels
+│           └───video
+├───results                # Generated outputs
+│   ├───test
+│   ├───train
+│   └───valid
 ├── models/                # Model weights
-├── results/               # Generated outputs
 ├── utils/                 # yolov7 wongkinyiu functionalities
 └── README.md              # This file
 ```
