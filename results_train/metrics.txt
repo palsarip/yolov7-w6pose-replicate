@@ -1,0 +1,8 @@
+precision: 0.1525
+recall: 0.1723
+f1_score: 0.1618
+accuracy: 0.9273
+true_positives: 61.0000
+false_positives: 339.0000
+true_negatives: 7999.0000
+false_negatives: 293.0000
