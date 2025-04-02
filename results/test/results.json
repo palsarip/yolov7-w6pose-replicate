@@ -1,0 +1,4172 @@
+[
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581349.1216133
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581472.4442368
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581472.8637667
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581473.7195241
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581475.4318879
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581475.8495653
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581476.6943355
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581478.8184886
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581479.2539442
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581479.6758802
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581482.2289536
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581482.646511
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581483.5323427
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581484.379686
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581484.800699
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581485.2383583
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581485.6697912
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581486.0998611
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581486.5434704
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581486.9705102
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581487.4001873
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581487.8239052
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581488.6753397
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581489.0872893
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581489.5219405
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581489.9425147
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581490.3774116
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581490.7927139
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581491.6438897
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581492.492938
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581492.9112253
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581493.760434
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581494.624684
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581495.0884576
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581495.5468771
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581496.399608
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581496.826461
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581497.2592564
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581497.6776378
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581498.100898
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581498.5372612
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581498.9666898
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581499.3885515
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581499.806212
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581500.6702003
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581501.0877905
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581501.518329
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581501.9515932
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581502.4068286
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581544.5848424
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581545.8556435
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581546.2864623
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581641.348078
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581641.7473052
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581643.3637514
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581644.1560323
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581644.958349
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581645.7718635
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581646.5870562
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581646.9899225
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581647.7937055
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581649.4067454
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581650.2228434
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581650.6269639
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581651.0252895
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581651.8176663
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581652.211919
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581652.6138043
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581653.01166
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581653.4081619
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581653.7997355
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581654.193451
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581654.5937645
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581654.9850838
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581655.3872297
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581655.776279
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581656.1724737
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581656.5681543
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581656.9763873
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581657.7815237
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581658.1719356
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581658.6027942
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581659.4380462
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581659.8333676
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581660.2416115
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581660.6446242
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581661.0573854
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581661.4653661
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581661.8642163
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581662.263089
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581662.6662498
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581663.0654204
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581663.8808737
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581664.27901
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581733.035397
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581733.4368598
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581733.8403473
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581734.2450655
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581734.6473558
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581736.6984036
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581737.9682117
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581747.7289863
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581816.2144692
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581817.020295
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581817.419515
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581817.8219914
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581818.2213185
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581818.6304743
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581819.03801
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581819.4462037
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581819.8575773
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581820.2551873
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581820.6593442
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581821.0580528
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581822.6543941
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581823.0636086
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581823.4774883
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581823.8792312
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581824.3317182
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581824.7354546
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581825.129796
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581825.5345933
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581825.921254
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581826.7102308
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581827.108101
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581827.5008302
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581827.8942204
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581828.2850842
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581828.6805139
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581829.0695014
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581829.4681194
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581829.8611479
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581830.267167
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581830.677318
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581831.0896845
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581831.4914045
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581831.8931162
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581832.2910771
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581832.6905363
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581833.5063806
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581833.923555
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581835.1242373
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581835.9504251
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581836.35359
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581836.7523637
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581837.1399615
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581837.5367785
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581837.9300764
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581838.3465893
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581839.1926217
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581839.587739
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581839.9963207
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581840.3905437
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581841.1967185
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581841.6198895
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581842.0317981
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581842.4571846
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581842.8858376
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581843.2781374
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581843.674378
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581844.0699873
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581844.4648445
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581844.8767529
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581845.2825966
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581845.7007685
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581846.1053221
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581846.4984908
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581846.8844256
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581847.2801483
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581847.6856072
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581848.0744417
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581848.4718795
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581848.962916
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581849.35546
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581849.7473176
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581850.136735
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581850.52635
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581850.9481795
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581851.342286
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581851.7682884
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581852.1856365
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581852.592504
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581853.0056067
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581853.3972871
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581853.7965524
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581854.1962981
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581854.5884693
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581854.9849668
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581855.3831344
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581855.7840521
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581856.1701941
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581856.5617528
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581856.9541574
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581857.3533459
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581857.7532864
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581858.163244
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581858.558536
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581858.9610865
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581859.357979
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581859.8050253
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581860.2055464
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581860.6003547
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581860.9964406
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581861.3888206
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581861.7771258
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581862.1658356
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581862.5619888
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581862.9570875
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581863.3517804
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581863.7561252
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581864.1609604
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581864.5584393
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581864.9499269
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581865.3419416
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581865.7366521
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581866.1366246
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581866.5227537
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581866.9252439
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581867.3207154
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581867.7142153
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581868.1190047
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581868.51999
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581868.9134667
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581869.305856
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581869.6975675
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581870.0962875
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581870.4917307
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581870.887276
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581871.2734923
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581871.6610672
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581872.0578456
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581872.4538932
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581872.84724
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581873.2475882
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581873.6408925
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581874.0515294
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581899.6340902
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581900.431651
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581900.8212876
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581901.237302
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581901.6310132
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581902.4520204
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581904.0370183
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581904.4396794
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581904.829645
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581905.2248836
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581905.6225455
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581906.011678
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581906.4058037
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581906.7935688
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581907.1877284
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581907.5850747
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581907.976175
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581908.4931595
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581908.954397
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581909.429257
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581909.8961036
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581913.3172088
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581913.7690372
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581914.706282
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581915.1534657
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581918.3707633
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581920.7966216
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581921.1996124
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581922.3785415
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581923.9478004
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581924.345334
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581924.730072
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581925.5356746
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743581925.9360466
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582784.9588096
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582790.0023322
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582790.561599
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582792.7939115
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582793.8902173
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582795.5787148
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582796.1354876
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582796.7030523
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582797.2595282
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582797.8114524
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582798.366568
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582799.5190115
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582800.066491
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582800.6284056
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582801.1740823
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582801.7484694
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582802.3109243
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582802.8752224
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582803.4247725
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582803.9667492
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582804.5337238
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582805.088156
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582805.655819
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582806.2005196
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582806.769362
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582807.3311841
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582807.8811219
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582808.4438286
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582808.9860225
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582809.5422895
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582810.0853004
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582810.6405754
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582811.191412
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582811.7490053
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582812.3155646
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582812.8663037
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582813.4198246
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582813.9701416
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582814.5363216
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582815.0863278
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582815.6400237
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582816.1987197
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582816.7581341
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582817.322759
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582817.8825142
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582818.4389362
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582818.9888945
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582819.5538034
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582820.1003387
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582820.659174
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582821.2008185
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582821.7800667
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582822.3418071
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582822.9070432
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582823.4792204
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582824.0262785
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582824.574027
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743582825.1137664
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583205.3139582
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583205.8904588
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583206.4462824
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583207.0195718
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583207.583887
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583208.1591878
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583208.7434406
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583209.2913303
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583209.876977
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583210.420566
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583210.9886458
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583211.550358
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583215.7032883
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583216.84869
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583218.032558
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583218.5886672
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583219.150684
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583219.7269857
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583220.2935395
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583220.9154096
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583221.480672
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583222.058023
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583222.6190927
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583223.1917586
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583223.763639
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583224.317887
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583224.9128692
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583225.4921122
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583226.0800605
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583226.6497908
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583228.3718994
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583228.9537249
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583229.5081367
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583230.109889
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583230.678193
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583231.2651134
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583231.8592925
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583232.4237843
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583233.0074997
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583233.567596
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583234.1402988
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583234.7187183
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583235.320602
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583235.9301724
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583236.4997845
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583237.0689688
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583237.6324368
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583238.2011356
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583238.795064
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583239.3433855
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583239.8987198
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583241.027393
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583241.588289
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583242.1692727
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583242.7382476
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583375.3131704
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583375.8690882
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583376.421734
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583376.968866
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583377.5406523
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583378.1383605
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583378.7102005
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583379.2772324
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583379.8333955
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583380.3990045
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583380.9523144
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583381.5112214
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583382.0744588
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583382.631673
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583383.1975605
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583383.7454512
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583384.3140073
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583384.8593624
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583385.429659
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583385.9717638
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583386.532729
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583387.090595
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583387.6522098
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583388.269882
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583388.8227615
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583389.3916266
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583389.9434612
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583390.5140882
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583391.0674582
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583391.619562
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583392.1859155
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583392.7281203
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583393.298365
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583393.8364415
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583394.3911648
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583394.9393544
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583395.490254
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583396.0417013
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583396.5964983
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583397.1425183
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583397.690855
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583398.2419682
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583398.7848768
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583399.332173
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583399.8810103
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583400.5123236
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583401.0629492
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583401.611221
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583402.214686
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583402.7745454
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583403.341326
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583403.8819916
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583404.4404638
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583404.9921882
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583405.5638375
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583406.113497
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583406.6838808
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583407.2555594
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583407.8172214
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583408.3695478
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583408.9166636
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583409.468132
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583410.0098858
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583410.5750158
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583411.1194484
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583411.6874678
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583412.2403233
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583412.7874656
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583413.3414805
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583413.8831916
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583414.438973
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583414.9774377
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583415.5350094
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583416.0800352
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583416.633588
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583417.1853852
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583417.7429726
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583418.2962177
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583418.8313973
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583419.3978927
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583419.9403608
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583420.4921756
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583421.0412643
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583421.5902472
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583476.1117957
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583476.6604211
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583477.1954577
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583477.7497864
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583478.3001678
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583490.5702596
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583491.1329901
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583574.3884058
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583574.9715397
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583575.5237453
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583576.102753
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583576.6511393
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583577.2144191
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583577.778773
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583578.322963
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583578.8900704
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583579.4365919
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583579.9936142
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583580.560368
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583581.1169147
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583581.673488
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583582.2337685
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583582.7949126
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583583.3367736
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583583.898446
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583584.443553
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583585.005867
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583585.5635335
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583586.11961
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583586.6768773
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583587.2373595
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583587.8024282
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583588.3586118
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583588.9143562
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583589.460017
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583590.0206418
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583590.5631907
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583591.1262753
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583591.6746285
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583592.259017
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583592.817211
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583593.3707645
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583593.930661
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583594.4798698
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583595.037819
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583595.5920224
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583596.1525204
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583596.7048497
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583597.3320255
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583598.451297
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583600.1193228
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583601.813649
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583602.9515672
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583606.8714397
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583607.9835598
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583650.0366971
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583655.5828485
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583657.2566218
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583671.8460658
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583675.2012675
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583675.759493
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583680.3055823
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583682.0060205
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583689.2415109
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583690.3517256
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583690.8923972
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583691.4299817
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583691.9926286
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583692.5616393
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583693.1308136
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583693.6848452
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583694.2381036
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583694.7749739
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583695.3297648
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583695.8727849
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583696.4205718
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583696.969412
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583697.5215764
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583698.6252477
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583700.2700174
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583746.8953328
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583747.4543586
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583747.9975803
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583844.1429641
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583844.5743542
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583845.0149517
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583845.4457974
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583845.8933427
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583846.776261
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583847.205258
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583847.6479905
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583848.0757282
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583848.505889
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583849.3985944
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583849.8392
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583850.3184083
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583850.7700777
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583851.2077456
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583915.2933927
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583916.1576865
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583916.5835385
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583951.4153178
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583951.8521116
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583952.3020277
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583952.7390292
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583953.1831388
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583953.6083164
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583954.047896
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583954.4808187
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583954.9083657
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583955.34437
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583955.773101
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583956.211358
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583956.6481147
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583957.0993319
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583957.535173
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583957.9798334
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583958.4191115
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583958.8526123
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583959.293695
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583959.7261724
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583960.1691747
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583960.6010005
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583961.0463197
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583961.4798515
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583961.9213598
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583962.3705165
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583962.8093133
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583963.245354
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583963.6697133
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583964.1115482
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583964.533328
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583964.9714577
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583965.4065115
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583965.834522
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583966.280839
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583966.7104461
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583967.1623647
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583967.5894191
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583968.0454788
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583968.4788277
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583968.9069805
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583969.3557625
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583969.7883215
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583970.242002
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583970.6733284
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583971.1397972
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583971.5946543
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583972.0548809
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583972.5198042
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583972.9640372
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583973.445165
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583973.8983476
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583974.3352711
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583974.7633054
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583975.2029665
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583975.6289053
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583976.0668766
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583976.5002663
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583976.926612
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583977.365011
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583977.8091605
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583978.2494974
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583978.690126
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583979.1329012
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583979.564722
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583979.9982665
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583980.4464946
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583980.9310446
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583981.373516
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583981.803271
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583982.2468715
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583982.6752887
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583983.131943
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583983.5673246
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583984.0082026
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583984.4573302
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583984.8923635
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583985.3348894
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583985.7689147
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583986.2124946
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583986.6430035
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583987.0767713
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583987.5104663
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583987.9296074
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583988.3813086
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583988.8078873
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583989.2557106
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583989.6828525
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583994.9001439
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583995.3492715
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583995.7756877
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583996.224188
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583996.6534374
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583997.0916624
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583997.5307434
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583997.9654412
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583998.4134355
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743583998.8490572
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584000.1804593
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584000.6123178
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584037.6263576
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584039.379843
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584039.8177614
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584040.2598727
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584040.6980655
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584041.1324904
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584042.022746
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584042.4683924
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584042.9061255
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584043.3486726
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584052.996772
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584053.4466348
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584053.8814082
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584054.316346
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584054.7482207
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584055.176298
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584056.4953506
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584058.2595804
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584058.7068603
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584059.1424375
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584060.0134633
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584060.463539
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584060.8898315
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584061.3497584
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584062.2245975
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584063.629164
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584067.62898
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584068.0659888
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584072.4949381
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584073.39541
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584078.3621557
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584078.8078442
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584079.251265
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584079.697098
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584080.124351
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584080.5603113
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584080.996655
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584081.4362056
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584081.8669424
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584082.2971072
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584082.7452235
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584083.1784923
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584083.6336288
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584084.0688322
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584084.5211344
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584084.9572365
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584085.3889782
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584085.8216133
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584086.24711
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584086.688302
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584087.1233995
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584087.5731323
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584088.0028918
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584088.442407
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584088.890856
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584089.3317306
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584089.7908988
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584090.241154
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584090.6831472
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584091.1798043
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584091.712805
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584092.177679
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584092.660959
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584093.1230335
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584093.5881042
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584094.050415
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584094.5208273
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584094.9633942
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584095.4150348
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584095.8634367
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584096.30132
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584096.7532794
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584097.1845725
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584097.6304376
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584098.060018
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584098.5062878
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584098.946745
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584099.382936
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584099.854968
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584100.293546
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584100.7641652
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584101.2048438
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584101.661545
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584102.1060383
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584102.5509934
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584102.984431
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584103.4195414
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584103.8585382
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584104.2844434
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584104.73659
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584110.0610456
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584159.574555
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584160.028629
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584170.2141428
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584170.650242
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584266.8812125
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584267.322227
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584267.750391
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584268.1854885
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584268.6168835
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584269.0600095
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584269.504282
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584277.0773447
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584277.5174537
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584277.9455235
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584278.832691
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584279.2852125
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584279.730413
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584281.0660746
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584281.5034878
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584281.934246
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584282.8221557
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584284.130647
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584284.5714533
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584285.0068727
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584285.8896303
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584286.758069
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584287.2016983
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584288.058498
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584289.3645494
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584289.7924762
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584290.6714497
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584291.999971
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584292.441262
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584293.7609513
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584294.624385
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584295.499305
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584295.9429648
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584296.403129
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584296.836627
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584297.2768545
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584297.7071602
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584298.1415997
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584370.6720464
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584371.1025054
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584371.5350356
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584371.9653444
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584443.7585745
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584444.1927438
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584444.6574988
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584446.8562934
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584470.712386
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584471.168943
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584563.5073414
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584842.7897792
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584843.2363975
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584845.0042565
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584846.3169098
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584847.223197
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584847.654598
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584848.097486
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584848.533157
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584848.971886
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584849.4074113
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584849.8352807
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584850.2920063
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584959.3627617
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584959.8129797
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584960.7115104
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584961.1503246
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584961.6132276
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743584964.3277729
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743585546.7529233
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743585547.1774704
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743585547.6145244
+  },
+  {
+    "detected": false,
+    "actual": false,
+    "timestamp": 1743585548.0668721
+  }
+]
