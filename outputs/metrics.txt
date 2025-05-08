@@ -1,0 +1,10 @@
+OVERALL RESULTS ACROSS ALL LE2I SCENARIOS
+Total Videos Processed: 190
+True Positives: 63
+False Positives: 23
+False Negatives: 65
+True Negatives: 39
+Precision: 73.26%
+Recall: 49.22%
+F1-Score: 58.88%
+Accuracy: 53.68%
